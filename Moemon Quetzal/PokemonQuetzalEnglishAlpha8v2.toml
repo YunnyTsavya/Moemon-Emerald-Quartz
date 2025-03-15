@@ -1,6 +1,6 @@
 [General]
 ApplicationVersion = '''0.5.6'''
-FreeSpaceSearch = '''000200'''
+FreeSpaceSearch = '''1F89580'''
 FreeSpaceBuffer = '''040'''
 NextExportID = '''0'''
 ShowRawIVByteForTrainer = False
@@ -111,7 +111,7 @@ DefaultHash = '''691941BB'''
 [[NamedAnchors]]
 Name = '''data.items.stats'''
 Address = 0x1111548
-Format = '''[name""13 unused. index: price: holdeffect.holdeffects param. description<""> keyitemvalue. bagkeyitem. pocket.pocketid type.|s=pocket(0=itemtype|1=itemtype|3=itemtype|4=itemtype|5=itemtype) fieldeffect<> battleusage:: battleeffect<> battleextra::]data.items.count'''
+Format = ''''''
 DefaultHash = '''96642A43'''
 
 [[NamedAnchors]]
@@ -2961,7 +2961,7 @@ DefaultHash = '''E74F20C6'''
    '''ChooseStarter''',
    '''StartWallyTutorialBattle''',
    '''ChangePokemonNickname''',
-   '''ChoosePartyMon''',# Selected index will be stored in var4. var4=1 for lead pokemon, var4=6 for last pokemon, var4=7 for cancel. Requires `waitstate` after.
+   '''ChoosePartyMon''',
    '''GetFirstFreePokeblockSlot''',
    '''DoBerryBlending''',
    '''PlayRoulette''',
@@ -3128,7 +3128,7 @@ DefaultHash = '''E74F20C6'''
    '''SetRoute119Weather''',
    '''SetRoute123Weather''',
    '''GetContestMultiplayerId''',
-   '''GetPartyMonSpecies''',# Read party index from var4, return species.
+   '''GetPartyMonSpecies''',
    '''IsSelectedMonEgg''',
    '''TryInitBattleTowerAwardManObjectEvent''',
    '''MoveOutOfSecretBaseFromOutside''',

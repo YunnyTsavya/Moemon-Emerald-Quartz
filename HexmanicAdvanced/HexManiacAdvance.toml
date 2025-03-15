@@ -14,12 +14,12 @@ AutoAdjustDataWidth = True
 StretchData = True
 AllowMultipleElementsPerLine = False
 IsNewVersionAvailable = False
-LastUpdateCheck = 13/03/2025 16:56:28
+LastUpdateCheck = 15/03/2025 10:11:53
 AcknowledgeTutorials = False
 Base10Length = False
 SpartanMode = False
 MapTutorials = '''000000000000000000000000000000000000'''
-RecentFiles = ["C:\Users\Eevee\Desktop\Project\Development\Pokemon Stream\Moemon Quetzal\PokemonQuetzalEnglishAlpha8v2.gba"]
+RecentFiles = ["C:\Users\Eevee\Desktop\Quetzal Moemon\Moemon-Emerald-Quartz\Moemon Quetzal\PokemonQuetzalEnglishAlpha8v2.gba"]
 
 [Theme]
 PrimaryColor = "#dddddd"
