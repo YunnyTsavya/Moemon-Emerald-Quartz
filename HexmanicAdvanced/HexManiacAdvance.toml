@@ -1,0 +1,30 @@
+[GeneralSettings]
+LogAppStartupProgress = False
+UseTableEntryHeaders = True
+AllowSingleTableMode = True
+InsertAutoActive = True
+ShowMatrixGrid = True
+FocusOnGotoShortcuts = True
+ZoomLevel = 16
+MaximumDiffSegments = 1000
+MaximumSearchResults = 1000
+CopyLimit = 40000
+AnimateScroll = True
+AutoAdjustDataWidth = True
+StretchData = True
+AllowMultipleElementsPerLine = False
+IsNewVersionAvailable = False
+LastUpdateCheck = 13/03/2025 16:56:28
+AcknowledgeTutorials = False
+Base10Length = False
+SpartanMode = False
+MapTutorials = '''000000000000000000000000000000000000'''
+RecentFiles = ["C:\Users\Eevee\Desktop\Project\Development\Pokemon Stream\Moemon Quetzal\PokemonQuetzalEnglishAlpha8v2.gba"]
+
+[Theme]
+PrimaryColor = "#dddddd"
+BackgroundColor = "#222222"
+HueOffset= 1
+AccentSaturation = 7
+AccentValue = 7
+HighlightBrightness = 6
