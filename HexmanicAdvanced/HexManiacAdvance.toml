@@ -19,7 +19,7 @@ AcknowledgeTutorials = False
 Base10Length = False
 SpartanMode = False
 MapTutorials = '''000000000000000000000000000000000000'''
-RecentFiles = ["C:\Users\Eevee\Desktop\Quetzal Moemon\Moemon-Emerald-Quartz\Moemon Quetzal\PokemonQuetzalEnglishAlpha8v2.gba"]
+RecentFiles = ["C:\Users\Eevee\Desktop\Quetzal Moemon\Moemon-Emerald-Quartz\Moemon Quetzal\Rom\PokemonQuetzalEnglishAlpha8v2.gba", "C:\Users\Eevee\Desktop\Project\Development\Pokemon Stream\Online Pokemon Game\Renata.gba"]
 
 [Theme]
 PrimaryColor = "#dddddd"
