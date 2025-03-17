@@ -14,12 +14,12 @@ AutoAdjustDataWidth = True
 StretchData = True
 AllowMultipleElementsPerLine = False
 IsNewVersionAvailable = False
-LastUpdateCheck = 15/03/2025 10:11:53
+LastUpdateCheck = 17/03/2025 17:34:37
 AcknowledgeTutorials = False
 Base10Length = False
 SpartanMode = False
 MapTutorials = '''000000000000000000000000000000000000'''
-RecentFiles = ["C:\Users\Eevee\Desktop\Quetzal Moemon\Moemon-Emerald-Quartz\Moemon Quetzal\Rom\PokemonQuetzalEnglishAlpha8v2.gba", "C:\Users\Eevee\Desktop\Project\Development\Pokemon Stream\Online Pokemon Game\Renata.gba"]
+RecentFiles = ["C:\Users\Eevee\Desktop\Quetzal Moemon\Moemon-Emerald-Quartz\Moemon Quetzal\Rom\Moemon Quetzal Emerald.gba", "C:\Users\Eevee\Desktop\Project\Development\Pokemon Stream\Online Pokemon Game\Renata.gba"]
 
 [Theme]
 PrimaryColor = "#dddddd"
